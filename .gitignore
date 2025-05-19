@@ -1,0 +1,9 @@
+/**/bin
+/**/obj
+/**/Logs
+/debug
+/icnc
+/**/mono_crash.*
+/openapi_codegen
+/openapitools.json
+.vs
